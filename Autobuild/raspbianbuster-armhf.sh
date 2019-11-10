@@ -1,3 +1,3 @@
 AUTOBUILD_CONFIGURE_EXTRA="${AUTOBUILD_CONFIGURE_EXTRA:-} --arch=armhf"
-DEBDIST=raspbianjessie
+DEBDIST=raspbianbuster
 source Autobuild/debian.sh
